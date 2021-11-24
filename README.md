@@ -31,7 +31,7 @@ https://www.jetbrains.com/pt-br/idea/
 
 ### Exercício 2 Para todos os testes desenvolvidos anteriormente, responda e justifique.
 1. Quantas suítes de testes você desenvolveu?
-    - 7 cenarios desenvolvidos.
+    - 1 suíte de teste com 7 cenarios desenvolvidos.
 2. Os testes desenvolvidos são manuais ou automatizados?
     - Automatizados
 3. Onde os testes se localizam na pirâmide apresentada?
